@@ -1,0 +1,46 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fundo{
+    background-color: rgb(162, 182, 162);
+}
+/*
+#capa{
+    width: 100%;
+}
+  */
+
+
+.nav span{
+    margin: 2px;
+}
+.nav a{
+    text-decoration: none;
+    color: rgb(77, 77, 112);
+}
+
+.conteudo{
+    background-color: rgb(231, 243, 225);
+}
+
+.sobre{
+    color: rgb(124, 164, 124) ;
+}
+
+.f1{
+    border: solid 10px rgb(149, 168, 149);
+}
+
+.conta{
+    font-weight: 600;
+}
+
+.final{
+    font-weight: 900;
+    margin-left: 43%;
+}
+
+.principa{
+    width: 900px;
+}
